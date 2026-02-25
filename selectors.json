@@ -1,0 +1,8 @@
+{
+  "name": ["h1.DUwDvf", "h1.fontHeadlineLarge", "h1"],
+  "rating": ["div.F7nice > span > span[aria-hidden=\"true\"]", "span.ceOqQ > span", "div[role=\"img\"][aria-label*=\"bintang\"]"],
+  "reviews": ["button[jsaction*=\"reviewChart.moreReviews\"] span", "div.F7nice span[aria-label*=\"ulasan\"]", "div.F7nice span[aria-label*=\"reviews\"]"],
+  "address": ["button[data-item-id=\"address\"] div.Io6YTe", "button[aria-label*=\"Alamat\"] div.Io6YTe", "div[data-item-id=\"address\"]"],
+  "phone": ["button[data-item-id^=\"phone:tel:\"] div.Io6YTe", "button[aria-label*=\"Telepon\"] div.Io6YTe", "div[data-tooltip*=\"telepon\"]"],
+  "website": ["a[data-item-id=\"authority\"] div.Io6YTe", "a[aria-label*=\"Situs Web\"] div.Io6YTe", "div[data-tooltip*=\"situs web\"]"]
+}
